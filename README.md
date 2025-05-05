@@ -6,7 +6,7 @@
 
 Recientemente he finalizado mi Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma, en donde he sido formado en Java, Bases de Datos, Hibernate, HTML, CSS, Git,...
 
-También he realizado una formación dual FullStack en CampusDual financiada por la Xunta de Galicia, en donde he desarrollado la aplicación <a href="https://github.com/CampusDual/2024-BFS-4-G1_NodusScientia">Nodus Scientia</a> para Imatia Innovation, aumentando mis conocimientos en Spring Boot, Angular, Git, PostgreSQL y Metodologías Agile.
+También he realizado una Formación Dual FullStack en CampusDual financiada por la Xunta de Galicia, en donde he desarrollado la aplicación <a href="https://github.com/CampusDual/2024-BFS-4-G1_NodusScientia">Nodus Scientia</a> para Imatia Innovation, aumentando mis conocimientos en Spring Boot, Angular, Git, PostgreSQL y Metodologías Agile.
 
 * **Estoy interesado en el desarrollo de aplicaciones tanto java como web, cualquier momento es bueno para adquirir nuevas competencias**
 - 🌱 Actualmente estoy aumentando mis conocimientos en ...
