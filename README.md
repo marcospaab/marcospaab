@@ -22,10 +22,10 @@ __Echa un vistazo a mi repositorio de GitHub:__
 
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/CampusDual/2024-BFS-4-G1_NodusScientia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CampusDual&repo=2024-BFS-4-G1_NodusScientia" alt="GitHub Stats" style="height: 150px; object-fit: cover;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CampusDual&repo=2024-BFS-4-G1_NodusScientia" alt="GitHub Stats" style="height: 100px; object-fit: cover;" />
   </a>
   <a href="https://github.com/marcospaab/ArqueoBD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospaab&repo=ArqueoBD" alt="GitHub Stats" style="height: 150px; object-fit: cover;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospaab&repo=ArqueoBD" alt="GitHub Stats" style="height: 100px; object-fit: cover;" />
   </a>
 </div>
 
