@@ -31,7 +31,7 @@ __Echa un vistazo a mi repositorio de GitHub:__
 
 
 
-<h2>👀 Mis datos en GitHub</h2>
+## <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width="45px">&nbsp;***Mis datos en GitHub***
 
 <div>
   
