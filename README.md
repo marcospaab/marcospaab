@@ -34,11 +34,10 @@ __Echa un vistazo a mi repositorio de GitHub:__
 ## <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width="45px">&nbsp;***Mis datos en GitHub***
 
 <div>
-  
   <p align="center">
-  <b><em>Estadísticas en Git:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcospaab" alt="GitHub Stats" /> <br/><br/>
-  
+    <b><em>Estadísticas en Git:</em></b> <br/>
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=marcospaab" alt="GitHub Streak Stats" />
+  </p>
 </div>
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcospaab&show)
