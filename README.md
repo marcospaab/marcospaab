@@ -14,7 +14,7 @@ También he realizado una Formación Dual FullStack en CampusDual financiada por
   - Typescript
 - 👯 Mi proyecto de <a href="https://github.com/marcospaab/ArqueoBD">ArqueoBD</a> está en crecimiento.
 - ✔ Sigo aprendiendo dia a dia, a la vez que estoy abierto a un nuevo puesto de trabajo!😉<br>
-- Antes de apasionarme con el mundo del software me formé como arqueólogo 🏺🏺 y participé un gran cantidad de proyectos con museos y universidades de toda España.
+- Antes de apasionarme con el mundo del software, me formé como arqueólogo 🏺🏺 y participé en gran cantidad de proyectos con museos y universidades de toda España.
 - 📫 Contacta conmigo en: <a href="marcos.padin@hotmail.es">marcos.padin@hotmail.es</a>
 - <img width=24px src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/> ¡También tengo Linkedin! <a href="https://www.linkedin.com/in/marcos-pad%C3%ADn-abal/">Marcos Adrián Padín Abal</a>
 
