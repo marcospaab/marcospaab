@@ -27,6 +27,9 @@ __Echa un vistazo a mi repositorio de GitHub:__
   <a href="https://github.com/marcospaab/ArqueoBD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospaab&repo=ArqueoBD" alt="GitHub Stats" style="height: 100px; object-fit: cover;" />
   </a>
+  <a href="https://github.com/marcospaab/-CompiBot-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcospaab&repo=-CompiBot-" alt="GitHub Stats" style="height: 100px; object-fit: cover;" />
+  </a>
 </div>
 
 
